@@ -21,7 +21,7 @@ Users can add assignments with due dates and view them sorted by the nearest dea
 3. Exit
    
 Enter choice: 1
-Enter Subject: Math
+Enter Subject: Probability and Random Process
 Enter Due Date (2025-09-23): 2025-09-25
 ✅ Assignment Added!
 
@@ -32,7 +32,7 @@ Enter Due Date (2025-09-23): 2025-09-25
 Enter choice: 2
 
 📅 Upcoming Assignments:
- - Math | Due: Thu Sep 25 00:00:00 IST 2025
+ - IOT Architectures & Protocols | Due: Thu Sep 25 00:00:00 IST 2025
 
 Enter choice: 3
 👋 Exiting... Goodbye!
